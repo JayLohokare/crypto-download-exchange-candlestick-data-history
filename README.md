@@ -1,7 +1,7 @@
 # coingecko-download-historic-data
 
 Python code to download historic candle data of crypto-curriencies from Exchanges
--Gdax
--Bitfinex
--Poloneix
--Binance
+-Gdax</br>
+-Bitfinex</br>
+-Poloneix</br>
+-Binance</br>
